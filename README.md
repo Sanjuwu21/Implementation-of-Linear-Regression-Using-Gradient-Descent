@@ -58,9 +58,9 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-Data Information:
+## Data Information:
 ![image](https://github.com/Sanjuwu21/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146498969/cc4a78f6-29cd-497a-a69e-1500f9c6905c)
-Predicted Value:
+## Predicted Value:
 ![image](https://github.com/Sanjuwu21/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/146498969/21b3afb4-29df-4a62-9347-8ecd63487ecb)
 
 
